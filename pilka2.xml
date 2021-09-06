@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="pila2.xslt"?>
+<LigaMistrzow>
+	<Druzyny>
+		<Druzyna kraj="Hiszpania">
+				<Zdjecia zrodlo="6.jpg" > 5.Druzyna turnieju </Zdjecia>
+				<Nazwa> Real Madryt </Nazwa>
+				<Trener>Zinadine Zidane</Trener>
+				<Kapitan>
+				Sergio Ramos
+				<WiekKapitana> 40 </WiekKapitana>
+				</Kapitan>
+				<Puchary> 11</Puchary>
+				<LiczbaGoli>345</LiczbaGoli>
+				<Stadion>Estadio Santiago Bernabeu</Stadion>
+				<IloscZawodnikow>0.53</IloscZawodnikow>
+			</Druzyna>
+			<Druzyna kraj="Hiszpania">
+				<Zdjecia zrodlo="5.jpg" > 2.Druzyna turnieju </Zdjecia>
+				<Nazwa> Fc Barcelona</Nazwa>
+				<Trener>Ernesto Valverde</Trener>
+				<Kapitan>
+				Gerad Pique
+				<WiekKapitana> 50 </WiekKapitana>
+				</Kapitan>
+				<Puchary> 7</Puchary>
+				<LiczbaGoli>315</LiczbaGoli>
+				<Stadion>Camp Nou</Stadion>
+				<IloscZawodnikow>00.53</IloscZawodnikow>
+			</Druzyna>
+			<Druzyna kraj="Anglia">
+				<Zdjecia zrodlo="4.jpg" > 4.Druzyna turnieju </Zdjecia>
+				<Nazwa> Tottenham </Nazwa>
+				<Trener>Jose Mourinho</Trener>
+				<Kapitan>Harry Kane
+				<WiekKapitana> 40 </WiekKapitana>
+				</Kapitan>
+				<Puchary> 2</Puchary>
+				<LiczbaGoli>215</LiczbaGoli>
+				<Stadion>Yorics Stadium</Stadion>
+				<IloscZawodnikow>00.59</IloscZawodnikow>
+			</Druzyna>
+			<Druzyna kraj="Anglia">
+				<Zdjecia zrodlo="3.jpg" >  3.Druzyna turnieju </Zdjecia>
+				<Nazwa> Liverpool </Nazwa>
+				<Trener>Jurgen Klopp</Trener>
+				<Kapitan>Virgil Van Dijk
+				<WiekKapitana> 32 </WiekKapitana>
+				</Kapitan>
+				<Puchary> 4</Puchary>
+				<LiczbaGoli>249</LiczbaGoli>
+				<Stadion>Anfield</Stadion>
+				<IloscZawodnikow>00.53</IloscZawodnikow>
+			</Druzyna>
+			<Druzyna kraj="Francja">
+				<Zdjecia zrodlo="1.jpg" > Druzyna turnieju </Zdjecia>
+				<Nazwa> PSG</Nazwa>
+				<Trener>Adrian Haber</Trener>
+				<Kapitan>Thiago Silva
+				<WiekKapitana> 40 </WiekKapitana>
+				</Kapitan>
+				<Puchary> 3</Puchary>
+				<LiczbaGoli>395</LiczbaGoli>
+				<Stadion>Stadion im. Seb Karpiniuka</Stadion>
+				<IloscZawodnikow>00.49</IloscZawodnikow>
+			</Druzyna>
+			<Druzyna kraj="Francja">
+				<Zdjecia zrodlo="2.jpg" > 6.Druzyna turnieju </Zdjecia>
+				<Nazwa> OL Lyon </Nazwa>
+				<Trener>Garcia</Trener>
+				<Kapitan>Hernandez
+				<WiekKapitana> 39 </WiekKapitana>
+				</Kapitan>
+				<Puchary> 1</Puchary>
+				<LiczbaGoli>145</LiczbaGoli>
+				<Stadion>Stade de Lyonas</Stadion>
+				<IloscZawodnikow>00.51</IloscZawodnikow>
+			</Druzyna>
+	</Druzyny>
+	
+
+
+
+</LigaMistrzow>

@@ -1,0 +1,56 @@
+#naglowek
+{
+	background-color:pink;
+	text-align: center;
+	font-size: 60px;
+}
+td
+{
+
+text-align: center;
+
+}
+table {
+    border: 5px solid black;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+	table: center;
+	
+}
+
+tr, th, td {
+    border: 2px solid;
+    text-align: center;
+    background-color: #2cccb3;
+}
+#linki
+{
+	background-color: pink;
+	text-align: center;
+	font-size: 15px;
+	
+	
+}
+#zbior
+{
+	background-color: gray;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+img
+{
+	width:100px;
+	height:100px;
+}
+
+#foty
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+	background-color:gray;
+	text-align:center;
+}
+
